@@ -42,7 +42,7 @@ Fixed random seed `42` to ensure reproducibility.
 Clone the repository and run:
 
 ```bash
-python nested_cvar.py
+python URDCEAT.py
 ```
 
 **Outputs include:**
